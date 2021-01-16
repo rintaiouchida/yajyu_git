@@ -1,2 +1,4 @@
 こんにちは
 僕は田所です。
+・git add
+・git commit
